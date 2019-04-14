@@ -9,3 +9,4 @@
 </p>
 
 ![霍兰德人格分析雷达图](https://github.com/jinhesui/python/raw/master/holland_radar.jpg)
+![政府工作报告词云](https://github.com/jinhesui/python/raw/master/grwordcloud.png)
